@@ -1,8 +1,8 @@
 # badgetest
 
-Repository for creating (i) [shields.io](https://shields.io) badge on README with [figshare](https://figshare.com) logo, (iii) adding names with ORCID hyperlink, and (iii) licensing logo. The figshare logo was taken from [here](https://commons.wikimedia.org/wiki/File:Figshare_logo.svg).
+Repository for creating (i) [shields.io](https://shields.io) badge on README for [figshare](https://figshare.com) doi with its [logo](https://commons.wikimedia.org/wiki/File:Figshare_logo.svg), (ii) hyperlinked ORCID logo, and (iii) licensing logo.
 
-I learnt from [this thread](https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges) to add figshare logo into the shields.io badge.
+I learnt from [this thread](https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges) to add custom logo (e.g. figshare doi) into the shields.io badge.
 
 
 # Examples
